@@ -7,13 +7,7 @@ This project has the purpose of building a web page that shows data and it has f
 
 index.html
 
-static Folder: CSS, images, and js 
-
-​	CSS: style.css
-
-​	images: nasa.jpg
-
-​	js: app.js, data.js
+static Folder: CSS (style.css), images (nasa.jpg), and js (app.js, data.js)
 
 ## Results
 
