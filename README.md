@@ -23,7 +23,7 @@ In the "Filter Search" section, the user can enter up to five filters: date, cit
 
 ### Perform the search
 
-After the user has pressed the enter key, the app will run a function within js that will save the elements added in the "Filter Search" section and will build a new table applying all the matches that it founds. As an example, the next image shows the data that is filtered after addind a state ("ca") and a shape ("light") filter. 
+After the user has pressed the enter key, the app will run a function within js that will save the elements added in the "Filter Search" section and will build a new table applying all the matches that it founds. As an example, the next image shows the data that is filtered after add in a state ("ca") and a shape ("light") filter. 
 
 !['3'](https://github.com/DylanMontemayor/UFOs/blob/main/Resources/3.png)
 
